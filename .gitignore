@@ -1,0 +1,26 @@
+# Dependencias de Node.js
+node_modules/
+.pnpm-store/
+
+# Archivos de construcción / compilación
+dist/
+dist-ssr/
+*.local
+
+# Archivos del sistema y editores de código
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# Logs y variables de entorno
+*.log
+.env
+.env.*
+!.env.example
